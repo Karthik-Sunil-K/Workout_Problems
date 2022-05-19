@@ -6,7 +6,7 @@ using std::cin;
 int main(){
 
     int base,exponent;
-    cout<<"enter the base";
+    cout<<"enter The base";
     cin>>base;
     cout<<"enter the exponent";
     cin>>exponent;
