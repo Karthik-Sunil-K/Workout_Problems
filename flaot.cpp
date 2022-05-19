@@ -8,7 +8,7 @@ int main(){
     float a=3.3333;
     double b=6.66666666;
     a=a*10000000000;
-    b=b*1000000000000;
+    b=b*100000000000;
     cout<<a<<std::endl;
     cout<<b<<std::endl;
     cout<<"\n";
