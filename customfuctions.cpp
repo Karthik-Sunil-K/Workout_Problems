@@ -16,7 +16,7 @@ int main(){
     int base;
     int exponent;
     int answer;
-    cout<<"enter the base";
+    cout<<"enter The base";
     cin>>base;
     cout<<"enter the exp";
     cin>>exponent;
