@@ -10,7 +10,7 @@ void find_power(int base,int exp){
     {
         resul=resul*base;
     }
-    cout<<"the "<<base<<" raised to the power "<<exp<<" = "<<resul;
+    cout<<"the"<<base<<" raised to the power "<<exp<<" = "<<resul;
 }
 
 int main(){
