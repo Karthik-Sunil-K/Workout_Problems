@@ -5,7 +5,7 @@ using std::cin;
 
 
 int main(){
-   const int x=5;
+   const int x=4;
    enum {y=2,z=9};
    cout<<x<<y<<x<<X<<std::endl;
 return 0;
