@@ -5,6 +5,7 @@ using std::cin;
 
 
 int main(){
+    
     bool is_good=true;
     cout<<is_good;
     cout<<"\n";
