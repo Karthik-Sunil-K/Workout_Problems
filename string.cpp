@@ -7,5 +7,8 @@ int main(){
     //appending variable to sting
     greeting+="!";
     std::cout<<greeting+" there" ;
+    std::cout<<"\n";
+
+    std::cout<<greeting.length()<<std::endl;
     return 0;
 }
