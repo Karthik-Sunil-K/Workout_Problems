@@ -1,12 +1,16 @@
-#include <iostream>
-#include <string>
+// to_string example
+#include <iostream>   // std::cout
+#include <string> 
+using namespace std;    // std::string, std::to_string
 
-using std::cout;
-using std::cin;
-using std::string;
-int main(){
+int main ()
+{
+ int a=5;
+ 
+ int *p=&a;
+ 
+ cout<<p<<endl;
 
-   cout<<"menu";
-   
-
+ cout<<*p<<endl;
+ cout<<&a;
 }
